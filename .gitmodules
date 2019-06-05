@@ -1,0 +1,6 @@
+[submodule "tools/Aurora"]
+	path = tools/Aurora
+	url = https://github.com/DadTraining/AuroraGT.git
+[submodule "tools/Glitch"]
+	path = tools/Glitch
+	url = https://github.com/DadTraining/Glitch
