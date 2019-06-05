@@ -1,0 +1,29 @@
+From 76424ca47151553a92e0f30ef8ded53deab079d3 Mon Sep 17 00:00:00 2001
+From: nguyentantai15t3 <taijoke97@gmail.com>
+Date: Wed, 5 Jun 2019 11:01:55 +0700
+Subject: [PATCH] add gitignore
+
+---
+ .gitignore.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+ create mode 100644 .gitignore.txt
+
+diff --git a/.gitignore.txt b/.gitignore.txt
+new file mode 100644
+index 0000000..b537ef6
+--- /dev/null
++++ b/.gitignore.txt
+@@ -0,0 +1,9 @@
++/build
++#
++/bin
++#
++/debug
++#
++*.sdf
++*.txt
++!/data/text
+\ No newline at end of file
+-- 
+2.21.0.windows.1
+
